@@ -8,7 +8,7 @@ habbo.de: https://images.habbo.com/habbo-web-news/de/production/front.json
 #
 habbo.fr: https://images.habbo.com/habbo-web-news/fr/production/front.json
 #
-habbo.if: https://images.habbo.com/habbo-web-news/fi/production/front.json
+habbo.fi: https://images.habbo.com/habbo-web-news/fi/production/front.json
 #
 habbo.com.tr: https://images.habbo.com/habbo-web-news/tr/production/front.json
 #
